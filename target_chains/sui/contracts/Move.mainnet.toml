@@ -9,7 +9,7 @@ subdir = "crates/sui-framework/packages/sui-framework"
 rev = "mainnet"
 
 [dependencies.Wormhole]
-git = "https://github.com/wormhole-foundation/wormhole.git"
+git = "https://github.com/Typus-Lab/wormhole.git"
 subdir = "sui/wormhole"
 rev = "mainnet"
 
